@@ -36,7 +36,7 @@ Design a Single Phase Inverter having the DC input supply of 100V and output res
 
 ## Simulation
 
-![Circuit](EXP%207%20CIRCUIT.jpg)
+
 
 ## Output
 ## Result
